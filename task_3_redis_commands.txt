@@ -1,0 +1,2 @@
+SUBSCRIBE events*
+PUBLISH events101 "Hello there"
