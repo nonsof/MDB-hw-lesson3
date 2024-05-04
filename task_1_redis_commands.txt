@@ -1,0 +1,4 @@
+SET index "index precalculated content"
+EXISTS index
+TTL index
+PERSIST index
