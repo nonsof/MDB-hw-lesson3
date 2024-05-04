@@ -1,0 +1,1 @@
+SET squareRootFunction "return math.sqrt(tonumber(redis.call('GET', KEYS[1])))"
